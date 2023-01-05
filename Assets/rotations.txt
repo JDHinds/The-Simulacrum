@@ -1,0 +1,2 @@
+To make sure a model is the right way up for unity, rotate it by -90 in the X in blender, ctrl A to "Apply" the rotaion to set it back to zero
+This is necessary for collider meshes
